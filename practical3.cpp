@@ -1,5 +1,4 @@
-//Rahul Kulkarni
-//B25ET1203
+
 #include <iostream>
 using namespace std;
 void accept(int &, int []);
